@@ -1,22 +1,22 @@
-# Word Guessing Game
+#Word Guessing Game
 
-## Overview
+##Overview
 
 This is a simple word guessing game written in Python. The player attempts to guess a hidden word by inputting letters one at a time. The game provides feedback on the guesses and keeps track of the number of tries remaining.
 
-## Files
+##Files
 
 - `main.py`: The main Python script for the game.
 - `README.md`: This documentation file.
 
-## How to Run
+##How to Run
 
 1. Make sure you have Python installed on your computer.
 2. Open a terminal or command prompt.
 3. Navigate to the directory containing `main.py`.
 4. Run the script with the command: `python main.py`.
 
-## Gameplay
+##Gameplay
 
 - The game will display a series of underscores representing the letters of the hidden word.
 - You need to guess one letter at a time.
@@ -25,14 +25,14 @@ This is a simple word guessing game written in Python. The player attempts to gu
 
 Enjoy the game!
 
-# Hard-code a word that needs to be guessed in the script
-# Print an explanation to the user
-# Display the word as a sequence of blanks, e.g. "_ _ _ _ _" for "hello"
-# Ask for user input
-# Allow only single-character alphabetic input
-# Create a counter for how many tries a user has
-# Keep asking them for their guess until they won or lost
-# When they find a correct character, display the blank with the word
-#   filled in, e.g.: "_ e _ _ _" if they guessed "e" from "hello"
-# Display a winning message and the full word if they win
-# Display a losing message and quit the game if they don't make it
+#Hard-code a word that needs to be guessed in the script
+#Print an explanation to the user
+#Display the word as a sequence of blanks, e.g. "_ _ _ _ _" for "hello"
+#Ask for user input
+#Allow only single-character alphabetic input
+#Create a counter for how many tries a user has
+#Keep asking them for their guess until they won or lost
+#When they find a correct character, display the blank with the word
+#filled in, e.g.: "_ e _ _ _" if they guessed "e" from "hello"
+#Display a winning message and the full word if they win
+#Display a losing message and quit the game if they don't make it
